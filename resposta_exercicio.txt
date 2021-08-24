@@ -1,0 +1,5 @@
+CARLOS - after effects = i5  <== processamento para efeitos especiais
+
+MATILDA - cyberpunk - i7 < == processamentos de polígonos
+
+MARCELO - office = i3 < == Processamento geral
